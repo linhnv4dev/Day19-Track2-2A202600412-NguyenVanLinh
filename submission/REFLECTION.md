@@ -33,5 +33,5 @@
 
 ## Bonus challenge
 
-- [ ] Đã làm bonus (xem `bonus/`)
-- [ ] Pair work với: _<tên đồng đội nếu có>_
+- [x] Đã làm bonus (xem `bonus/`)
+- [x] Pair work với: Phạm Lê Hoàng Nam
